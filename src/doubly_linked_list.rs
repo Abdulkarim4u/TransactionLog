@@ -1,5 +1,7 @@
 
 //improved version of our transactionLog using Doubly_linked_list
+//Transactions can go back and forth.
+
 
 use std::cell::{Ref, RefCell};
 use std::rc::Rc;
